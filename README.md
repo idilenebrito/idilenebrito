@@ -1,5 +1,6 @@
  ## Oi, eu sou a Idilene Brito! 👋
 🏠 Salvador-BA <br>
+👩‍🎓 Estudando na Cubos Academy - Flutter<br>
 👩‍💻 Desenvolvedora Front-End <br>
 👩‍🎓 Desenvolvimento de Sistemas e Manutenção e Suporte em Informática <br>
 💻 Procurando meu espaço no mercado de trabalho <br>
