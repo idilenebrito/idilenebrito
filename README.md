@@ -1,7 +1,6 @@
  ## Oi, eu sou a Idilene Brito! 👋
 🏠 Salvador-BA <br>
-👩‍🎓 Estudando na Cubos Academy - Flutter<br>
-👩‍💻 Desenvolvedora Front-End <br>
+👩‍🎓 Estudando Flutter na Cubos Academy em parceria com a Nubank <br>
 👩‍🎓 Desenvolvimento de Sistemas e Manutenção e Suporte em Informática <br>
 💻 Procurando meu espaço no mercado de trabalho <br>
 ⚡ Amo O Auto da Compadecida, conversar, viajar e correr está sendo meu novo hobbie <br>
@@ -28,5 +27,7 @@
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align=center alt="icon-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align=center alt="icon-dart" height="70" width="80" src="<img src="<img src="https://img.icons8.com/color/50/000000/dart.png"/>"/>"/>
+  <img align=center alt="icon-flutter" height="70" width="80" src="<img src="https://img.icons8.com/color/48/000000/flutter.png"/>"/>
  <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>-->
