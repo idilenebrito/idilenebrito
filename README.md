@@ -1,13 +1,15 @@
  ## Oi, eu sou a Idilene Brito! 👋
 🏠 Salvador-BA <br>
-👩‍🎓 Estudando Flutter na Cubos Academy em parceria com a Nubank <br>
-👩‍🎓 Desenvolvimento de Sistemas e Manutenção e Suporte em Informática <br>
-💻 Procurando meu espaço no mercado de trabalho <br>
+
+📓 Estudando Flutter na Cubos Academy em parceria com a Nubank <br>
+📓 Estudando Análise e Desenvolvimento de Sistemas e Manutenção <br>
+👩‍🎓 Técnico em Desenvolvimento de Sistemas e Manutenção e Suporte em Informática <br>
 ⚡ Amo O Auto da Compadecida, conversar, viajar e correr está sendo meu novo hobbie <br>
+<!-- 💻 Procurando meu espaço no mercado de trabalho <br> -->
 
 <div> 
   <a href = "mailto:idilenebrito.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" rel="external" target="_blank"></a>
-  <a href="https://instagram.com/idilene.brito" rel="external" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://instagram.com/idilene.brito" rel="external" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/idilenebrito/" rel="external" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://discord.gg/GV2bNsu5tC" rel="external" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
 </div> 
