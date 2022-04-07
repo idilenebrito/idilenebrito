@@ -1,6 +1,5 @@
  ## Oi, eu sou a Idilene Brito! 👋
 🏠 Salvador-BA <br>
-
 📓 Estudando Flutter na Cubos Academy em parceria com a Nubank <br>
 📓 Estudando Análise e Desenvolvimento de Sistemas e Manutenção <br>
 👩‍🎓 Técnico em Desenvolvimento de Sistemas e Manutenção e Suporte em Informática <br>
