@@ -1,10 +1,10 @@
  ## Oi, eu sou a Idilene Brito! 👋
 🏠 Salvador-BA <br>
 💻 Estagiando na Iteris Consultoria e Software <br>
-📓 Estudando Flutter na Cubos Academy em parceria com a Nubank <br>
+📓 Concluí o curso de Flutter na Cubos Academy em parceria com a Nubank <br>
 📓 Estudando Análise e Desenvolvimento de Sistemas pela FAM <br>
 👩‍🎓 Técnica em Desenvolvimento de Sistemas e Manutenção e Suporte em Informática <br>
-✨ Amo O Auto da Compadecida, conversar,compartilhar conhecimento, viajar e correr está sendo meu novo hobbie <br>
+✨ Amo O Auto da Compadecida, conversar,compartilhar conhecimento, correr está sendo meu novo hobbie <br>
 
  ##
  <br>
