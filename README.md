@@ -32,7 +32,10 @@
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="icon-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
-<!--  <img align=center alt="icon-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>-->
+<img align="center" alt="icon-vue" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="center" alt="icon-vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+          
+ <!--  <img align=center alt="icon-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>-->
   <img align=center alt="icon-dart" height="40" width="40"  src="https://img.icons8.com/color/50/000000/dart.png"/>
   <img align=center alt="icon-flutter" height="40" width="40" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 </div>
