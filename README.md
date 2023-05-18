@@ -16,12 +16,6 @@
 </div> 
 
 ##
- <br>
-<div align="center">
-  <a href="https://github.com/idilenebrito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idilenebrito&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&icon_color=1D308F&title_color=1D308F"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idilenebrito&layout=compact&langs_count=7&theme=graywhite&title_color=1D308F"/>
-</div>
  
  
 
